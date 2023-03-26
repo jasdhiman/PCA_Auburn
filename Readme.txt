@@ -1,0 +1,1 @@
+code and files related to Principal Component Analysis (PCA) to predict heating and ignition risk associated with biomass dusts - working towards safe working conditions at biomass processing facilities
